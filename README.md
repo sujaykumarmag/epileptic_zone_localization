@@ -90,8 +90,7 @@ candidate_package/
 - `post_process.ipynb` evaluates and compares the independent simulation
 	scores. This analysis is separate from the training pipeline.
 
-See `data/README_DATA.md` for complete column definitions, missing-data
-details, and data-use restrictions.
+
 
 
 See the [analysis](ANALYSIS.md), [report](REPORT.md)
