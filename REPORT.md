@@ -163,3 +163,7 @@ Naive average score: `(model_score + sim_score) / 2`.
 
 
 ## Limitations
+
+- There is still room for improvement.
+- The choice of GCN architecture could be improved.
+- The reason why the identity-matrix representation performs well remains unclear to me
