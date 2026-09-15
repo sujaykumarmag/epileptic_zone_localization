@@ -1,0 +1,13 @@
+name : "gcn_multimodal_shuffled"
+seeds : [12,34,56,78,90]
+data : "../../data/"
+datatype : graph
+adjacency_mode : "shuffled" # [real, identity, shuffled]
+numepochs: 50
+lr : 0.01
+bz : 16
+input_dim : 68
+results_dir : "results/"
+modality : 
+  include_mod_a : 1
+  include_mod_b : 1
